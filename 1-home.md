@@ -1,17 +1,14 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# Perú: compras de antirretrovirales con sobreprecio y entregas a destiem
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+Uno de los pilares para que el tratamiento con antirretrovirales tenga éxito es que los pacientes con VIH lo cumplan con disciplina y constancia. Sin embargo, en Perú esto es imposible para muchos porque sus medicinas no llegan a tiempo, se las entregan de manera fraccionada o, incluso, con fechas vencidas.
 
-This will be another paragraph, as it has a blank line above it.
-
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Reportaje](/2020/09/22/reportaje.html)
+[Entrevista](/entrevista/)
+[Testimonios](/testimonios/)
+[Contratos](/contratos/)

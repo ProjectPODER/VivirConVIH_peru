@@ -1,10 +1,10 @@
 <!-- Mobile Navbar -->
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top d-block d-sm-none" id="mobile-navbar">
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top d-block d-md-none" id="mobile-navbar">
   <div class="container-fluid">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | size -%}
-    <a class="navbar-brand" rel="author" href="{{ '/'' | relative_url }}"><img src="{{ site.baseurl }}/assets/img/{{ site.image }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand" rel="author" href="{{ '/'' | relative_url }}"><img src="{{ site.baseurl }}/assets/img/{{ site.image }}"></a>
     <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/assets/img/{{ site.image | prepend: site.baseurl }}"></a> -->
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -29,12 +29,12 @@
 </nav>
 
 <!-- Desktop Navbar -->
-<nav class="navbar navbar-expand navbar-dark fixed-top bg-dark d-none d-sm-block" id="desktop-navbar">
+<nav class="navbar navbar-expand navbar-light fixed-top bg-light d-none d-md-block" id="desktop-navbar">
     <div class="container-fluid">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | size -%}
-    <a class="navbar-brand" rel="author" href="{{ '/'' | relative_url }}"><img src="{{ site.baseurl }}/assets/img/{{ site.image }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand" rel="author" href="{{ '/'' | relative_url }}"><img src="{{ site.baseurl }}/assets/img/{{ site.image }}"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -53,7 +53,7 @@
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   {{ site.menu_button_title | escape }}
                 </a>
-                <ul class="dropdown-menu dropdown-menu-right bg-dark" aria-labelledby="navbarDropdownMenu">
+                <ul class="dropdown-menu dropdown-menu-right bg-light" aria-labelledby="navbarDropdownMenu">
                 </ul>
             </li>
         </ul>
