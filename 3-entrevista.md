@@ -6,19 +6,31 @@ permalink: /entrevista/
 
 # Una lucha por conquistar la dignidad: la demanda al Estado que permitió acceder a tratamientos gratuitos contra el VIH
 
-*Antes del 2004, una persona con VIH no podía acceder fácilmente a un tratamiento de antirretrovirales. El estigma y el poco conocimiento de la enfermedad originaron que cientos de peruanos murieran sin tener ninguna opción. En esta entrevista, Pedro Pablo Prada —presidente de la organización Peruanos Positivos— explica el largo y extenuante proceso que han atravesado las personas con VIH para obtener terapias gratuitas.
+**_Antes del 2004, una persona con VIH no podía acceder fácilmente a un tratamiento de antirretrovirales. El estigma y el poco conocimiento de la enfermedad originaron que cientos de peruanos murieran sin tener ninguna opción. En esta entrevista, Pedro Pablo Prada —presidente de la organización Peruanos Positivos— explica el largo y extenuante proceso que han atravesado las personas con VIH para obtener terapias gratuitas._**
 
-Por Mayté Ciriaco*
+*Por Mayté Ciriaco • Septiembre 22, 2020*
 
 Desde que en 1989 se enteró que tenía VIH, Pedro Pablo Prada, presidente de la Coordinadora Nacional de Personas Viviendo con VIH/SIDA (Peruanos Positivos), empezó una lucha por sobrevivir en un país que aún no entregaba medicinas gratuitas a los pacientes con el Virus de Inmunodeficiencia Huamana (VIH). Tras un periodo de aceptación de su diagnóstico, Prada, entonces un joven administrador de una discoteca en Lima, decidió cambiar la mirada que tenía de su enfermedad. Para ello, se metió a cursos y grupos para informarse, comunicar a sus compañeros y, sobre todo, reclamar por una atención de calidad y acceso a fármacos que les otorgaran más opciones de vida. 
- 
+
+{:.image-post}
+![Pedro Pablo Prada]({{ site.baseurl }}/assets/img/Pedro Pablo Prada 1.jpg)
+
+Desde que se enteró que tenía VIH, Pedro Pablo Prada empezó una lucha para que el Gobierno peruano brindara tratamiento gratuito a todas las personas con el virus.  
+Crédito: Foto: Archivo personal de Pedro Pablo Prada
+
 En 2000, junto con tres personas más, Prada demandó al Estado peruano para que brindara acceso universal a la terapia contra el VIH, una condición que entonces mataba a cientos de personas. Gracias a su lucha y a la de sus compañeros, en el 2004 el Gobierno firmó un acuerdo con la Organización Panamericana de la Salud (OPS) para otorgar tratamiento gratuito.
  
 Pese a que solo le dieron tres meses de vida, Pedro Pablo Prada lleva 31 años viviendo con VIH y luchando por mejorar la información que se tiene sobre la enfermedad, los canales de acceso a los antirretrovirales y la atención que reciben las personas que tienen VIH. Dice que él es un claro ejemplo que, con acceso a tratamiento, una atención de calidad, terapias psicológicas, una buena alimentación, compromiso y buen ánimo es posible llevar una vida saludable.
  
 ## Antes de que el Estado peruano empezara a dar tratamiento gratuito a las personas con VIH, ¿cómo se accedía a los medicamentos y cuánto costaban?
 Antes del 2004, solo las personas que eran parte de las Fuerzas Armadas y la Policía Nacional del Perú, a través de su Comité de Prevención y Control del VIH/sida (Coprecos), y los afiliados a EsSalud tenían acceso a medicamentos antirretrovirales. Sin embargo, para ellos tampoco era tan sencillo acceder a estos fármacos. Los asegurados tenían que registrarse en listas de espera y luego esperar durante meses hasta que les llegaran sus tratamientos. Algunos morían en la espera. La realidad para los que nos atendíamos en los hospitales del Ministerio de Salud era mucho peor: lo único que nos daban era una pastillita para evitar la tuberculosis y otra contra las diarreas. No te ofrecían nada para controlar al virus. 
- 
+
+{:.image-post}
+![Pedro Pablo Prada]({{ site.baseurl }}/assets/img/Pedro Pablo Prada 2.jpg)
+
+Pedro Pablo Prada lleva más de 20 años orientando y acompañando a otras personas con VIH para que reciban sus terapias y sepan qué cuidados deben tener.
+Crédito: Foto: AHF Perú
+
 ## ¿Qué opciones tenían las personas con VIH que se atendían en los hospitales del ministerio?
 Ninguna. Las personas con VIH morían como moscas. Muchos conocidos y amigos fallecieron durante esos años porque era imposible conseguir antirretrovirales. Yo tuve mucha suerte. Cuando me diagnosticaron en el hospital Dos de Mayo, empecé a indagar más sobre la enfermedad para poder informar a mis compañeros y otras personas con VIH que conocí en el hospital. También empecé a hacer actividades para animar a las personas que se encontraban internadas. Los médicos me tomaron cariño y me conseguían las medicinas. En esa época no se tomaba un solo fármaco, ni dos ni tres. Yo tomaba 18 pastillas diarias. Eran demasiadas y además tan costosas que casi nadie podía obtenerlas con su propio bolsillo. 
  
@@ -61,6 +73,3 @@ Muchos tienen miedo a ser discriminados, tienen vergüenza de su diagnóstico y 
 ## El acceso a los antirretrovirales hace que las personas ahora no vean el VIH como una sentencia de muerte y ha permitido que mucha gente tenga más años de vida. Pero ¿esos años más de vida son de calidad en el Perú o de todas maneras sufren muchas desatenciones del sistema de salud?
 Todavía hay situaciones por mejorar, pero éstas no sólo dependen del sistema de salud. Es cierto que el sistema tiene muchas carencias como el poco presupuesto, las compras llenas de burocracia, y la falta de personal capacitado que brinde un trato humanizado. Si bien todos estos factores influyen mucho en el desarrollo de la enfermedad, también depende mucho de cómo la llevan las personas con VIH. Nosotros somos quienes debemos cuidarnos y exigir por lo que necesitamos. Debemos aceptar que tenemos VIH y darle la vuelta al diagnóstico. No podemos dejarnos vencer. Tenemos que cuidarnos porque si no lo hacemos nosotros, nadie más lo hará. Y se puede. Creo que yo soy la muestra que con la combinación de una buena terapia y atención de calidad, y un cuidado personal y compromiso con el tratamiento, podemos llevar una vida normal y seguir trabajando, seguir aprendiendo y creciendo. Los chicos que ahora dejan sus tratamientos no saben qué era lo que pasaba con nosotros en esos años y cómo sufrimos para lograr acceso universal al tratamiento. Creo que por eso no valoran lo que tienen o no reclaman cuando deben hacerlo. 
 
-
-{:.image-post}
-![]({{ site.baseurl }}/assets/img/)

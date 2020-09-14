@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Perú: compras de antirretrovirales con sobreprecio y entregas a destiem"
+title: "Perú: compras de antirretrovirales con sobreprecio y entregas a destiempo"
 author: "Mayté Ciriaco"
 ---
+
+{:.image-post}
+![Perú: compras de antirretrovirales con sobreprecio y entregas a destiempo]({{ site.baseurl }}/assets/img/PERU.jpg)
 
 A fines de mayo, cuando Marta*, una joven comerciante que vive con VIH desde el 2013, revisó el paquete con sus medicinas, se dio con la sorpresa de que uno de los fármacos que le habían entregado en el hospital regional de Cusco para los siguientes dos meses estaba vencido. “Uno de los frascos de Lamivudina de 150 mg había expirado en marzo y el otro estaba a punto de vencer”, asegura. 
 
@@ -18,6 +21,12 @@ Según informó el Cenares, mediante un comunicado enviado a Salud con lupa, “
  
 Más allá de señalar culpables, hay procesos ineficaces que podrían explicar que las medicinas lleguen vencidas a manos de los pacientes. Cenares realiza los pedidos para las compras a pocos días de que el stock con el que se cuenta en las farmacias a nivel nacional se acabe. Pedro Pablo Prada —quien lleva treintaiún años viviendo con VIH, es presidente de la Coordinadora Nacional de Personas Viviendo con VIH/SIDA (Peruanos Positivos) y fue miembro del comité de medicamentos de Cenares entre 2014 y 2018— dice que este es un gran problema de coordinación y burocracia. “Los pedidos se deben hacer con seis meses o hasta un año de anticipación porque los trámites con Cenares duran muchísimo”, explica. Según expresa depende en gran parte del compromiso de las personas del comité y de los encargados de Cenares que se acelere el proceso de compra. Durante los años en los que fue miembro de este grupo, Prada junto a una de sus compañeras solicitó a los hospitales y direcciones regionales de salud de las veintiséis regiones del país que enviaran sus pedidos con un mínimo de seis meses de anticipación para que cuando se les acabara el stock no tuvieran que esperar y quedarse desabastecidos. “Nos organizamos para hacer los pedidos con tiempo y que así no hubiera excusa para la demora en las compras”, explica. 
 
+{:.image-post}
+![Medicamentos vencidos]({{ site.baseurl }}/assets/img/Medicamentos vencidos - Cusco.jpg)
+
+Entre 2019 y mediados del 2020, diferentes pacientes de los hospitales del Ministerio de Salud denunciaron al Grupo Impulsor de Vigilancia en Abastecimiento de Medicamentos Antirretrovirales (GIVAR) la entrega de fármacos para combatir el VIH vencidos o a punto de vencer. 
+Crédito: Imágenes: GIVAR
+
 Otro problema son los precios que se acostumbran pagar por los antirretrovirales. Si bien Cenares debe realizar compras corporativas una vez al año -una estrategia de compra al por mayor que agrupa la demanda de todos los hospitales del Estado que tienen un programa de VIH para reducir el precio de los antirretrovirales- no siempre lo hace así. Hay ocasiones en las que se realizan más de dos compras trimestrales a diferentes empresas en lugar de una sola compra conjunta. Según el Sistema Electrónico de Contrataciones del Estado (Seace), en el último trimestre del 2019, Cenares compró dos veces Lamivudina de 150 mg (en octubre y en diciembre), en lugar de realizar una sola. 
 
 Por estas adquisiciones adicionales, las compras de antirretrovirales que realiza Cenares tienen precios elevados. Entre 2017 y 2019, Perú gastó 21 '485.540,64 dólares en veintisiete compras de antirretrovirales. Estos costaron en promedio un 45% más del precio de referencia. “En el 2017, nosotros pagamos 18.40 soles por el antirretroviral Atazanavir, mientras Bolivia lo compraba a 0.30 céntimos”, asegura Pedro Pablo Prada. Para él, con ese sobreprecio podríamos comprar más medicinas para que lleguen a más personas. 
@@ -27,7 +36,13 @@ Por estas adquisiciones adicionales, las compras de antirretrovirales que realiz
 El director de la estrategia de VIH del hospital Carrión de la Provincia Constitucional del Callao, Juan Carlos Castro, explica que cada uno de los 173 establecimientos de salud que cuenta con un programa de VIH en el Perú debe realizar una orden de compra con las medicinas que necesita para todos las personas inscritas más un 10% o 20%. “Ese porcentaje extra es para que los nuevos inscritos tengan la opción de recibir sus antirretrovirales”, señala. 
  
 Después de enviar la lista de pedidos para los dos mil pacientes con VIH inscritos en el hospital Carrión, Cenares recién empieza un proceso de licitación con al menos tres empresas. Una vez que elige una y compra las medicinas, se tiene que esperar a que estas lleguen. Finalmente, tiene que distribuirla a los almacenes de los hospitales. Este proceso, según Castro, puede durar muchos meses. 
- 
+
+{:.image-post}
+![Medicamentos desabastecidos]({{ site.baseurl }}/assets/img/Medicamentos desabastecidos.jpg)
+
+Diferentes personas con VIH que se atienden en los hospitales del Ministerio de Salud denuncian el desabastecimiento de algunos antirretrovirales entre los que figuran Lamivudina, Raltegravir, Tenofovir y Nevirapina. GIVAR ha reunido algunas recetas de afiliados del SIS y EsSalud en las que se comprueba la falta de estos fármacos. 
+Crédito: Imágenes: GIVAR
+
 Por su parte, Pedro Pablo Prada dice que los almacenes de los hospitales son otro cuello de botella. “Hay que estar atentos a cuando llegan las medicinas a Cenares para llamar inmediatamente a los hospitales y decirles que se enviaran los antirretrovirales a sus almacenes. También hay que llamar a los directores de los programas de cada hospital para que sepan que ya tienen las medicinas”, explica. Según Prada, en el 2016 se quedaron antirretrovirales en los almacenes del hospital de Piura que jamás se distribuyeron. “Aquí incluso había antirretrovirales para niños y no se repartieron. Cuando se dieron cuenta ya estaban vencidos”, lamenta. 
 
 El almacén de Cenares debería distribuir los fármacos a los hospitales, pero esto no siempre sucede y la pandemia ha empeorado la situación. El director de la estrategia de VIH en el hospital Loayza, Eduardo Mattos, dice que durante estos meses han tenido incluso que ir ellos mismos a recoger los antirretrovirales para las personas inscritas en el programa. “Algunas veces nos hemos visto obligados a ir al almacén de Cenares por nuestra cuenta para traer las medicinas y no dejar a nuestros pacientes sin terapia”, explica en una llamada con Salud con lupa. Estas idas y venidas han corrido por cuenta de los médicos a cargo. “Ha sido difícil porque ahora somos menos médicos infectólogos trabajando, a veces solo hay uno que atiende el turno, ir a recoger es una sobrecarga laboral, pero hay que hacerlo”, dice Mattos. 
@@ -42,6 +57,12 @@ A fines de febrero, dos semanas antes de que se declarara la emergencia sanitari
  
 Germán volvió a leer el nombre del medicamento que le habían entregado al menos dos veces más y pensó que la enfermera se había confundido: ese no era el antirretroviral que a él le habían recetado. “Yo llevo cinco años tomando la combinación Atazanavir, Ritonavir, Nelfinavir”, asegura. Por eso, regresó donde la enfermera y le dijo que ese no era su paquete. Sin embargo, ella le aseguró que no había ningún error. “Me dijo que me estaban cambiando el esquema, algo que no se puede hacer sin exámenes previos realizados por tu médico tratante”, explica Germán. 
  
+{:.image-post}
+![Pacientes con VIH / Perú]({{ site.baseurl }}/assets/img/PacienteconVIH_Peru_MaxCabello.jpg)
+
+Muchas personas con VIH que se atienden en hospitales del Ministerio de Salud no han podido seguir una terapia antirretroviral eficaz, debido a que sus medicinas no llegan a tiempo, se las entregan de manera fraccionada o, incluso, con fechas vencidas.  
+Crédito: Foto: Max Cabello
+
 Como no contaban con los fármacos que él requería, el personal de salud encargado de entregar los antirretrovirales del hospital Santa Rosa había decidido cambiarle el esquema para que no se quedara sin medicinas. Tras esa explicación, Germán aceptó el nuevo medicamento y se lo llevó a casa, pero apenas horas después de haber tomado Kaletra, empezó a sentirse muy mareado y débil, y le dio un fuerte dolor de cabeza que lo llevó a la cama. Germán supo después que su médico tratante no sabía del cambio de esquema que le estaban haciendo. 
  
 Germán pensó que aquellos malestares eran normales y que pasaría pronto, tal como le había sucedido la primera vez que tomó un antirretroviral. Pero después de cuatro semanas los dolores y mareos no disminuyeron.  “Cada día me sentía peor, así que cuando me tocó volver a recoger mis medicinas le dije a la enfermera que el Kaletra no estaba funcionando, que me sentía muy mal”, cuenta. No obstante, la enfermera le dijo que debía seguir tomando el antirretroviral porque no tenían otro y que seguramente su organismo se acostumbraría a él en algún momento. Germán volvió a aceptar. 
@@ -59,7 +80,13 @@ El médico Eduardo Mattos, director de la estrategia de VIH del hospital Loayza,
 ## Entrega de tratamientos fraccionados
  
 En su data, Cenares también afirma que de las treinta combinaciones de antirretrovirales que se debían comprar entre 2019 y 2020, nueve no fueron solicitadas entre las que figuran Lamivudina, Zidovudina, Atazanavir y Abacavir. Además, mencionan que según su reporte de uso del trimestre pasado, Zidovudina 10mg/ml inyectable tuvo un consumo promedio de 70 a 80 frascos mensuales, lo que no es congruente con la cantidad de frascos que se pidieron. “Se pidieron más frascos de Zidovudina de los que realmente se utilizaron”, respondieron voceros de Cenares a través de un cuestionario. Por ello, las cantidades que se comprarían de este antirretroviral se ajustaron para este año.
- 
+
+{:.image-post}
+![Cenares]({{ site.baseurl }}/assets/img/Cenares.jpg)
+
+Directores y pacientes de diferentes programas de VIH en el país aseguran que el Centro Nacional de Abastecimiento de Recursos Estratégicos en Salud (Cenares) hace compras poco eficaces y demora meses en abastecer las farmacias de los 173 establecimientos de salud con este programa. 
+Crédito: Foto: Andina
+
 No obstante, el médico Juan Carlos Castro asegura que una de las razones para no usar todos los fármacos es precisamente que se entregan vencidos o a punto de vencer lo que hace que se devuelvan. “Esta situación perjudica más que nada a los pacientes porque cuando devolvemos medicinas, a ellos debemos entregarles menos cantidad de las que les corresponde”, explica. 
  
 En Trujillo, donde hay cuatro mil personas que reciben tratamiento de VIH, José Otiniano Ruiz, presidente de la Asociación Regional de Personas viviendo con VIH de La Libertad (Arpoll) ha registrado decenas de casos de personas que reciben esquemas fraccionados no solo durante la pandemia, sino que llevan al menos dos años con ese problema. “Hemos luchado mucho para que el ministerio nos entregue antirretrovirales por tres meses, que es lo adecuado, pero no en todos los casos esto sucede así”, asegura Otiniano. 
@@ -70,6 +97,12 @@ Según explica, en el hospital docente de Trujillo y en el hospital de Belén co
 
 José Otiniano asegura que muchos pacientes han dejado sus terapias durante esta pandemia no solo porque tienen miedo de contagiarse de COVID, sino también porque no tienen cómo ir por sus fármacos o tienen temor de hacer todo un esfuerzo para que les entreguen medicinas vencidas, a punto de vencer, fraccionadas o que les cambien de tratamiento sin previo aviso. “Estos problemas no son de ahora, eso debe quedar claro, son viejos, solo que la pandemia ha agravado la situación”, dice Otiniano.
 
+{:.image-post}
+![Cóctel de medicamentos]({{ site.baseurl }}/assets/img/CoctaildeMedicamentos_Saludconlupa.jpg)
+
+Entre 2017 y 2019, Perú gastó 21 '485.540,64 dólares en veintisiete compras de antirretrovirales. Estos costaron en promedio un 45% más del precio de referencia. 
+Crédito: Foto: Archivo Salud con lupa
+
 ## Objetivos interrumpidos
 
 En el Perú, la mortalidad por VIH se redujo en un 52% entre el 2010 y 2018, de acuerdo al informe del Programa Conjunto de las Naciones Unidas (ONUSida) y se convirtió en uno de los países de América Latina con mejores resultados en ese campo. Además, al 2019, el 70% de personas que vivían con VIH en el país sabía con certeza de su enfermedad; el 81% de ellas tenía acceso a terapias y un 37% tenía carga viral indetectable. Sin embargo, debido a la pandemia, estos logros están en peligro. “Es una realidad que las cifras no son las mismas que teníamos el año pasado. Todo lo que habíamos avanzado se ha perdido”, dice Patricia Bracamonte, representante de ONUSida Perú. 
@@ -78,11 +111,15 @@ Este año debimos cumplir con el objetivo 90-90-90, la meta 2020 de ONUSida para
 
 A pesar de que aún no cuenta con estadísticas exactas, Bracamonte intuye que no cumpliremos con este objetivo. “Todos los días recibimos cientos de correos de personas que nos piden asesoramiento porque no les han dado medicinas, les han dado fármacos con fechas próximas de caducidad o no reciben atención porque se cerraron las consultas externas y no saben cómo se encuentran”, explica. Los más perjudicados son los pacientes que fueron diagnosticados poco antes del inicio de la cuarentena. En medio del estado de emergencia, cientos de personas con VIH no han recibido fármacos. Recién desde fines de junio, bajo un decreto supremo, podrán hacerlo.
 
+{:.image-post}
+![Kaletra]({{ site.baseurl }}/assets/img/Kaletra_Archivo_Saludconlupa.JPG)
+
+En medio de la pandemia, se han cambiado terapias antirretrovirales, sin consultar a los especialistas. Esta situación ha puesto en riesgo a pacientes que no han asimilado las nuevas terapias. 
+Crédito: Foto: Archivo Salud con lupa
+
 Ya sea por compras a precios elevados, una lenta distribución de los fármacos o entregas fraccionadas, el costo de estos procesos burocráticos ineficaces finalmente siempre lo asumen los pacientes con VIH que ven interrumpidos sus tratamientos. Aunque a la fecha no hay cura para esta enfermedad, el efecto de los antirretrovirales ha avanzado tanto que, según evidencia científica, pueden añadir un promedio de quince años a la expectativa de vida del paciente. Además, le permite tener un organismo lo suficientemente fuerte para evitar infecciones u otras enfermedades que, por su condición, podrían ser fatales. Interrumpir la terapia de una persona con VIH significa abrirle paso al virus en su organismo y darle la oportunidad de volverse más y más resistente. Eso se traduce en la necesidad de tratamientos más difíciles de conseguir y más costosos. Reorganizar los procesos de entrega de antirretrovirales en el Perú es un asunto urgente si se quiere cumplir con el compromiso asumido de entregar tratamiento gratuito y eficaz a sus ciudadanos. Las vidas de más de sesenta mil personas dependen de ello.
 
-*Marta pidió mantener en reserva su identidad para dar su testimonio.
+**Marta pidió mantener en reserva su identidad para dar su testimonio.*
 
 
 
-{:.image-post}
-![]({{ site.baseurl }}/assets/img/)
