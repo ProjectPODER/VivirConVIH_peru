@@ -3,13 +3,12 @@
 
   {%- include head.html -%}
 
-  <!-- {%- assign my_page = site.pages | where: "path", path | first -%} -->
-  <body class="{% if page.title == "Inicio" %}{%- else -%}complement-bg{% endif %}">
-
+  <body class="{% if page.title == "Inicio" %}illustration-bg peru{%- else -%}complement-bg{% endif %}">
+    
     {%- include header.html -%}
 
-      {{ content }}
-
+    {{ content }}
+    
   </body>
 
 </html>
