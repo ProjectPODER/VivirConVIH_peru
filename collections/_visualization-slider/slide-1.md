@@ -3,6 +3,6 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# THIS IS THE FIRST SLIDE
+Entre 2017 y 2019 Perú invirtió más de 21 millones de dólares en la compra de medicamentos antirretrovirales para las 115.797 personas que viven con el Virus de  Inmunodeficiencia Humana en el país, los resultados no son buenos y menos durante la pandemia de la Covid-19. 
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Es imposible tener una correcta adhesión al tratamiento debido a que el Estado no entrega los antirretrovirales a tiempo, los paquetes medicinales cubren poco tiempo, incluso, tienen la fecha de caducidad vencida según explican activistas. 
