@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualizacion4.jpg
 ---
 
 Entre dos empresas controlan el 59% del mercado. El Consorcio Quimica Suiza y Merck Sharp & Dohme Perú con ventas de casi 7 millones de dólares y Pharmaris Peru quién ingreso 5.69 millones por sus ventas de antirretrovirales al Estado. 
