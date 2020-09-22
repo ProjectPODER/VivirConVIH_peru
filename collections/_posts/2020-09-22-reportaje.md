@@ -7,6 +7,8 @@ author: "Mayté Ciriaco"
 {:.image-post}
 ![Perú: compras de antirretrovirales con sobreprecio y entregas a destiempo]({{ site.baseurl }}/assets/img/PERU.jpg)
 
+Este reportaje también se publicó en [Salud con lupa](https://saludconlupa.com/noticias/peru-compras-de-antirretrovirales-con-sobreprecio-y-entregas-destiempo/).
+
 A fines de mayo, cuando Marta*, una joven comerciante que vive con VIH desde el 2013, revisó el paquete con sus medicinas, se dio con la sorpresa de que uno de los fármacos que le habían entregado en el hospital regional de Cusco para los siguientes dos meses estaba vencido. “Uno de los frascos de Lamivudina de 150 mg había expirado en marzo y el otro estaba a punto de vencer”, asegura. 
 
 La Lamivudina es uno de los antirretrovirales que Marta tiene que tomar para controlar la multiplicación del virus de inmunodeficiencia humana (VIH) en su organismo. Este fármaco ataca en varios puntos su proceso de replicación y lo desacelera. La combinación adecuada de antirretrovirales puede disminuir la carga viral del paciente y permitir que su sistema inmunológico empiece a recuperarse y sus defensas a resurgir. Si la cantidad de virus en el organismo es tan mínima que resulta indetectable, la persona puede llevar una vida sin mayor diferencia que el resto. Para Martha, los antirretrovirales son una especie de escudo frente a la enfermedad, una garantía para seguir viviendo tranquila. Pero un escudo defectuoso no la protegerá igual.
