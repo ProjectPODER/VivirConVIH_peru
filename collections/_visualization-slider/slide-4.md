@@ -7,4 +7,4 @@ Entre dos empresas controlan el 59% del mercado. El Consorcio Quimica Suiza y Me
 
 El Estado peruano solo compró a la OPS 54 mil dólares, el 0.25% del mercado total, según lo publicado por la SE@CE. De haberse apegado a los proveedores que se aproximan más a los precios de referencia Perú podría haber gastados solo 11.77 millones dólares en lugar de los 21.48 que efectivamente malgastó. 
 
-[VER INFORME COMPLETO]()
+[VER INFORME COMPLETO](https://vivirconvih.org/assets/informevivirconvih.pdf)
